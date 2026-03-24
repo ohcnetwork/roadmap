@@ -28,9 +28,9 @@
 | [#218](https://github.com/ohcnetwork/roadmap/issues/218) | Resolve All TODO Comments Across the Codebase |
 | [#217](https://github.com/ohcnetwork/roadmap/issues/217) | Billable Charge items render in Accounts `FE Pending` |
 | [#216](https://github.com/ohcnetwork/roadmap/issues/216) | Add validation to ChargeItem status changes  `bug` |
-| [#214](https://github.com/ohcnetwork/roadmap/issues/214) | Adding model caching for User and tags for all the relavent specs |
+| [#214](https://github.com/ohcnetwork/roadmap/issues/214) | Adding model caching for User and tags for all the relevant specs |
 | [#213](https://github.com/ohcnetwork/roadmap/issues/213) | Add capability to logout all users from care `feature` |
-| [#211](https://github.com/ohcnetwork/roadmap/issues/211) | Innvestigate care backend high memory usage |
+| [#211](https://github.com/ohcnetwork/roadmap/issues/211) | Investigate care backend high memory usage |
 | [#208](https://github.com/ohcnetwork/roadmap/issues/208) | Allow users to archive resource categories `P0` |
 | [#206](https://github.com/ohcnetwork/roadmap/issues/206) | Display Official Patient Identifier in Encounter list page `Needs Triage` |
 | [#205](https://github.com/ohcnetwork/roadmap/issues/205) | Cache for instance identifiers on facility doesn't update on change |
@@ -118,7 +118,7 @@
 | Issue | Title |
 |-------|-------|
 | [#248](https://github.com/ohcnetwork/roadmap/issues/248) | Add/wire support for dynamic  role organization |
-| [#247](https://github.com/ohcnetwork/roadmap/issues/247) | Update exisitng testcases |
+| [#247](https://github.com/ohcnetwork/roadmap/issues/247) | Update existing testcases |
 | [#245](https://github.com/ohcnetwork/roadmap/issues/245) | Add discharge summary advice  field in report builder |
 | [#244](https://github.com/ohcnetwork/roadmap/issues/244) | Include Reference Ranges when there is no Intepretation |
 | [#238](https://github.com/ohcnetwork/roadmap/issues/238) | Alternative Name search support for Medications |
